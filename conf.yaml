@@ -8,8 +8,8 @@
 #     marge_json_path:  请填写网络地址的json文件，用于合并，不带空格！！！
 spider_settings:
   enable: true
-  json_url: "https://blog.starsharbor.com/friend.json"
-  article_count: 5
+  json_url: "https://www.monstecho.top/friend.json"
+  article_count: 6
   merge_result:
     enable: false
     merge_json_url: "https://fc.liushen.fun"
@@ -60,5 +60,5 @@ smtp:
 #   name:               友链名称
 #   url:                指定的RSS地址
 specific_RSS:
-   - name: "青萍叙事"
-     url: "https://blog.lusyoe.com/rss/feed.xml"
+   - name: "monstecho"
+     url: "https://www.monstecho/atom.xml"
