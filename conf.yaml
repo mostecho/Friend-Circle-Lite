@@ -60,5 +60,5 @@ smtp:
 #   name:               友链名称
 #   url:                指定的RSS地址
 specific_RSS:
-   - name: "monstecho"
-     url: "https://www.monstecho/atom.xml"
+   - name: ""
+     url: ""
